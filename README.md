@@ -9,4 +9,4 @@ Tic tac Toe Game:Implements basic functionalities such as placing X's and O's al
 - Diagonal
   
 # This Tic tac toe Game in ReactJS Could Handle Ties.
-- Tie breaker functionality has been added.
+- The Tie breaker functionality has been added.
