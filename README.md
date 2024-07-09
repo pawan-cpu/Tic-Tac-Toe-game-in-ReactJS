@@ -1,6 +1,7 @@
 # Tic-Tac-Toe-game-in-ReactJS
 # (FactWise Frontend Assessment)
-Tic tac Toe Game:Implements basic functionalities such as placing X's and O's alternately on the board
+- Tic tac Toe Game:Implements basic functionalities such as placing X's and O's alternately on the board
+- Implemented a fully functional Tic Tac Toe player game.
 
 # This tic-tac-toe game could detect win conditions.
 # Winning conditions
